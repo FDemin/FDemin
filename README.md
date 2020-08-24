@@ -3,7 +3,7 @@
 </h2>
 
 <p align="justify">
-  My name is <b>Francis Demin</b> and I'm currently a Computer Engineering Student taking Microsoft.NET Track. I'm still learning new with software development, after years of having experience in programming. I'm also planning to learn more on Game Development during pastimes after Graduating.
+  My name is <b>Francis Demin</b> and I'm currently a Computer Engineering Student taking Microsoft.NET Track. I'm still learning new with software development, with the use of C# as programming language. I'm also planning to learn more on Game Development during pastimes after Graduating.
 </p>
 
 <p align="center">
