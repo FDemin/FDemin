@@ -2,10 +2,10 @@
 My name is **Francis Demin** and I'm currently a Computer Engineering Student taking Microsoft.NET Track. I'm still learning new with software development, after years of having experience in programming. I'm also planning to learn more on Game Development during pastimes after Graduating.
 
 <p align="center">
-  <a href="https://www.facebook.com/fge.demin" target="_blank">
+  <a href="https://www.facebook.com/fge.demin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=1877F2">
   </a>
-  <a href="https://www.instagram.com/fgedemin" target="_blank">
+  <a href="https://www.instagram.com/fgedemin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F">
   </a>
 </p>
