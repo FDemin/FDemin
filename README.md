@@ -2,7 +2,7 @@
 My name is **Francis Demin** and I'm currently a Computer Engineering Student taking Microsoft.NET Track. I'm still learning new with software development, after years of having experience in programming. I'm also planning to learn more on Game Development during pastimes after Graduating.
 
 [![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=1877F2)](https://www.facebook.com/fge.demin)
-[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](www.instagram.com/fgedemin)
+[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/fgedemin)
 
 <!--
 **FDemin/FDemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
