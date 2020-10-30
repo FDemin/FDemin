@@ -3,7 +3,11 @@
 </h2>
 
 <p align="justify">
+  I'm specialized on dealing Back-End Code
+  
   Main Programming Language: C#.NET
+  
+  Other Programming Languages: C++, Java, Python
   
   Technologies Used: Microsoft SQL Server, SQLite, Entity Framework, Visual Studio
 </p>
