@@ -4,6 +4,7 @@
 
 <p align="justify">
   Main Programming Language: C#.NET
+  
   Technologies Used: Microsoft SQL Server, SQLite, Entity Framework, Visual Studio
 </p>
 
