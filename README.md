@@ -3,9 +3,8 @@
 </h2>
 
 <p align="justify">
-  My name is <b>Francis Demin</b> and I'm currently a Computer Engineering Student taking Microsoft.NET Track. I'm still learning on a practical approach of software development, with the use of C# as programming language. I'm also planning to learn more on Game Development during pastimes after Graduating.
-  
-  I haven't uploaded any public repos to share yet, but i'm planning to share it publicly soon. (most of my repos are private, and connected more on Course Projects)
+  Main Programming Language: C#.NET
+  Technologies Used: Microsoft SQL Server, SQLite, Entity Framework, Visual Studio
 </p>
 
 <p align="center">
