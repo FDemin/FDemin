@@ -4,8 +4,10 @@
 
 <p align="justify">
   Abilities:
-  - Database Design, Normalization and Analysis
-  - Developing Desktop Applications
+  <ul>
+    <li>Database Design, Normalization and Analysis</li>
+    <li>Developing Desktop Applications and Back-End Web</li>
+  </ul>
   
   Programming Languages: C#, C++, Java, Python, Assembly
   
