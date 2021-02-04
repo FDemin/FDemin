@@ -3,15 +3,16 @@
 </h2>
 
 <p align="justify">
-  I'm specialized on dealing Back-End Code
+  Abilities:
+  - Database Design, Normalization and Analysis
+  - Developing Desktop Applications
   
-  Main Programming Language: C#.NET
-  
-  Other Programming Languages: C++, Java, Python
+  Programming Languages: C#, C++, Java, Python, Assembly
   
   Technologies Used: Microsoft SQL Server, SQLite, Entity Framework, Visual Studio
 </p>
 
+<!--
 <p align="center">
   <a href="https://www.facebook.com/fge.demin">
     <img src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=1877F2">
@@ -20,7 +21,7 @@
     <img src="https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F">
   </a>
 </p>
-<!--
+
 **FDemin/FDemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
